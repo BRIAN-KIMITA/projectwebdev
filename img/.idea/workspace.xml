@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7b62044-7ebc-40a1-ad12-8cd3cf0d166f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Avenue/Avenue_Healthcare_Standby_Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/Goodlife-Avenue-Healthcare.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/ambulancesquad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/avenueteam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/imagesinsurance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/labs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/nurse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avenue/slideravenue1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/about-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/author1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/author2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/author3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avenuelogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/avenuelogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockqoute-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/blockqoute-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-sidebar1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/blog-sidebar1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-sidebar2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/blog-sidebar2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-sidebar3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/blog-sidebar3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/blog1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/blog2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/blog3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bread-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/bread-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/call-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/client-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/client1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/client2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/client3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/client4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/client5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/contact-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/fun-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map-marker.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/map-marker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/mission-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pf1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/pf1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pf2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/pf2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pf3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/pf3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pf4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/pf4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/section-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/signup-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slider.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/slider.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slider2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/slider2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slider3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/slider3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testi-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/testi-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Avenue/video-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2WrPipffBfYc65KbqAX1YdAY0O7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/USER/Downloads/Mediplus Lite Free Website Template - Free-CSS.com/AvenueHospital",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Downloads\Mediplus Lite Free Website Template - Free-CSS.com\AvenueHospital\Avenue" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7b62044-7ebc-40a1-ad12-8cd3cf0d166f" name="Changes" comment="" />
+      <created>1697487855918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697487855918</updated>
+      <workItem from="1697487856925" duration="15000" />
+      <workItem from="1697488110319" duration="38000" />
+      <workItem from="1697488254956" duration="625000" />
+      <workItem from="1697488906071" duration="29000" />
+      <workItem from="1697494703793" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
